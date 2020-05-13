@@ -7,7 +7,7 @@ Bài tập Log In Form tại lớp KhoaPham30032020
 
 Đây là hình ảnh demo của màn hình Log In.
 
-![image](D:\Study\KhoaPhamAndroid\11.05.2020\LogInForm\photo\demo.png) 
+![image](https://github.com/anhoang241998/LogInForm/blob/master/photo/demo.png?raw=true) 
 
 ## How to download / clone it
 Các bạn có thể download (clone) về bằng 2 cách:
